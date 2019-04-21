@@ -1,3 +1,5 @@
+0/0/0
+
 # solocoding2019_base
 Base Project for solocoding
 할 일 관리
